@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\arono\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\arono\\.nuget\\packages",
+      "G:\\Programy\\VisualStudio\\Visual_Shered\\NuGetPackages"
+    ]
+  }
+}
